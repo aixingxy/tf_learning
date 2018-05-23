@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/xxy/PycharmProjects/tf_learning/data-all/data-all"
+all_model_checkpoint_paths: "/home/xxy/PycharmProjects/tf_learning/data-all/data-all"
